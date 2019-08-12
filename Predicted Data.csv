@@ -1,0 +1,21 @@
+,SentimentText,Label,Sentiment,predictions
+0,"['my', 'donkey', 'is', 'sensitive', 'about', 'such', 'comments', 'nevertheless', ""he'd"", '(', 'and', ""me'd"", ')', 'be', 'glad', 'to', 'see', 'your', 'mug', 'asap', 'charger', 'is', 'still', 'awol']",['TEST_0'],0,0.19909424
+1,"['just', 'leaving', 'the', 'parking', 'lot', 'of', 'work']",['TEST_1'],0,0.45933357
+2,"['poor', 'cameron', '(', 'the', 'hills', ')']",['TEST_2'],0,0.45933357
+3,"['not', 'the', 'whole', 'crew']",['TEST_3'],0,0.45383734
+4,"['this', 'week', 'is', 'not', 'going', 'as', 'i', 'had', 'hoped']",['TEST_4'],0,0.13366437
+5,"['just', 'going', 'to', 'cry', 'myself', 'to', 'sleep', 'after', 'watching', 'marley', 'and', 'me']",['TEST_5'],0,0.47162533
+6,"['damn', 'i', ""don't"", 'have', 'any', 'chalk', 'my', 'chalkboard', 'is', 'useless']",['TEST_6'],0,0.1695112
+7,"['just', 'got', 'ur', 'newsletter', 'those', 'fares', 'really', 'are', 'unbelievable', 'shame', 'i', 'already', 'booked', 'and', 'paid', 'for', 'mine']",['TEST_7'],0,0.36404335
+8,"['no', ""it's"", 'not', 'behaving', 'at', 'all', ""i'm"", 'mad', 'why', 'am', 'i', 'here', '?', 'because', 'i', ""can't"", 'see', 'you', 'all', 'over', 'there']",['TEST_8'],0,0.70443285
+9,"['i', 'baked', 'you', 'a', 'cake', 'but', 'i', 'ated', 'it']",['TEST_9'],0,0.40081745
+10,"['i', 'really', 'hate', 'how', 'people', 'diss', 'my', 'bands', 'trace', 'is', 'clearly', 'not', 'ugly']",['TEST_10'],0,0.19556412
+11,"['one', 'of', 'my', 'friend', 'called', 'me', 'and', 'asked', 'to', 'meet', 'with', 'her', 'at', 'mid', 'valley', 'today', 'but', ""i've"", 'no', 'time', '*', 'sigh', '*']",['TEST_11'],0,0.49831188
+12,"['i', 'dived', 'many', 'times', 'for', 'the', 'ball', 'managed', 'to', 'save', '50', '%', 'the', 'rest', 'go', 'out', 'of', 'bounds']",['TEST_12'],0,0.41047007
+13,"['why', 'is', 'it', 'always', 'the', 'fat', 'ones', '?']",['TEST_13'],0,0.33622804
+14,"['hey', 'long', 'time', 'no', 'see', 'yes', 'rains', 'a', 'bit', 'only', 'a', 'bit', 'lol', ""i'm"", 'fine', 'thanks', ""how's"", 'you', '?']",['TEST_14'],0,0.7529781
+15,"['i', 'hate', 'when', 'i', 'have', 'to', 'call', 'and', 'wake', 'people', 'up']",['TEST_15'],0,0.6056179
+16,"['no', 'picnic', 'my', 'phone', 'smells', 'like', 'citrus']",['TEST_16'],0,0.13552912
+17,"['i', 'just', 're-pierced', 'my', 'ears']",['TEST_17'],0,0.58501756
+18,"['why', ""won't"", 'you', 'show', 'my', 'location', '?']",['TEST_18'],0,0.54009175
+19,"['bed', 'class', '8-12', 'work', '12-3', 'gym', '3-5', 'or', '6', 'then', 'class', '6-10', 'another', 'day', ""that's"", 'gonna', 'fly', 'by', 'i', 'miss', 'my', 'girlfriend']",['TEST_19'],0,0.58501756
